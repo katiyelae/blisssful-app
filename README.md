@@ -9,6 +9,8 @@
 
 🌐 [Live Site](https://blisssful.netlify.app/)
 
+![Screen Recording 2024-04-21 at 10 41 41 PM](https://github.com/katiyelae/blisssful-app/assets/124293549/2d15d88f-526c-4728-b3a9-97b224be67b7)
+
 
 # Tech Stack:
 <div>
@@ -21,7 +23,6 @@
 </div>
 
 
-![Screen Recording 2024-04-21 at 10 41 41 PM](https://github.com/katiyelae/blisssful-app/assets/124293549/2d15d88f-526c-4728-b3a9-97b224be67b7)
 
 
 # Getting Started: 
